@@ -6,10 +6,13 @@ Class Injection tool for .NET
 
 ### Example :
 
-![sizeofGif](https://user-images.githubusercontent.com/54905232/69172114-51eaa000-0b0e-11ea-8ca8-b8eb9e66991b.gif)
+![injector](https://user-images.githubusercontent.com/54905232/69238070-1d2b2700-0ba8-11ea-84a2-e895400a8530.gif)
 
-#### Before :
-![before](https://user-images.githubusercontent.com/54905232/69172303-a2fa9400-0b0e-11ea-8439-6d56ffb7f41f.PNG)
+#### Before : (Injected EntryPoint)
+![1](https://user-images.githubusercontent.com/54905232/69238154-5499d380-0ba8-11ea-831f-8492049a86fd.PNG)
 
 #### After : 
-![after](https://user-images.githubusercontent.com/54905232/69172325-ad1c9280-0b0e-11ea-849c-978ad562a6c1.PNG)
+![2](https://user-images.githubusercontent.com/54905232/69238192-709d7500-0ba8-11ea-8f0d-5b38c8ccee64.PNG)
+
+## Usage :
+- Add the class you want to inject and modify the codes accordingly (There are explanations in the codes)
