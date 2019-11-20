@@ -1,0 +1,12 @@
+C:\Users\root\source\repos\Class Injector\Class Injector\bin\Debug\Class Injector.exe.config
+C:\Users\root\source\repos\Class Injector\Class Injector\bin\Debug\Class Injector.exe
+C:\Users\root\source\repos\Class Injector\Class Injector\bin\Debug\Class Injector.pdb
+C:\Users\root\source\repos\Class Injector\Class Injector\obj\Debug\Class Injector.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Class Injector\Class Injector\obj\Debug\Class_Injector.Form1.resources
+C:\Users\root\source\repos\Class Injector\Class Injector\obj\Debug\Class_Injector.Properties.Resources.resources
+C:\Users\root\source\repos\Class Injector\Class Injector\obj\Debug\Class Injector.csproj.GenerateResource.cache
+C:\Users\root\source\repos\Class Injector\Class Injector\obj\Debug\Class Injector.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Class Injector\Class Injector\obj\Debug\Class Injector.exe
+C:\Users\root\source\repos\Class Injector\Class Injector\obj\Debug\Class Injector.pdb
+C:\Users\root\source\repos\Class Injector\Class Injector\bin\Debug\dnlib.dll
+C:\Users\root\source\repos\Class Injector\Class Injector\obj\Debug\Class Injector.csproj.CopyComplete
